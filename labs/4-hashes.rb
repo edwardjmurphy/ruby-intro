@@ -28,5 +28,7 @@ bitcoin = gets.chomp
 # 2. The value will be a string, so you'll want to convert it to a Float.
 bitcoin = bitcoin.to_f
 
+puts bitcoin_data
+
 # 3. inspect the bitcoin_data hash
 # puts bitcoin_data
