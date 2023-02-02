@@ -28,3 +28,13 @@ puts "Hello, " + first_name + "!"
 greeting = "Hello, #{first_name}!"
 puts greeting
 # String manipulation  
+
+puts "Hello      " + "there!"
+puts "Hello".length
+puts "how are you today?".capitalize
+puts "computer".reverse
+
+creed = "This Is The Way"
+puts creed.upcase
+puts creed.downcase
+puts creed.swapcase
